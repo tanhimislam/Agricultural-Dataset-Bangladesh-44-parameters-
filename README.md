@@ -1,4 +1,4 @@
-# Agricultural-Dataset-Bangladesh-46-parameters
+# Agricultural-Dataset-Bangladesh
 
 Meteorology, Types of Land, Chemical Fertilizer, Soil Type, Soil Information
 
